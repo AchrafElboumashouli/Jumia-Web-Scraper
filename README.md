@@ -62,8 +62,12 @@ Prix: Product price in MAD
 Lien: Direct link to the product page
 
 ###  🎨 Terminal Preview
+🚀 scarping : 
 ![Scraper Demo](./images/scarping.png)
+✨ scarping successful :
 ![Scraper Demo](./images/fin.png)
+🛍️ File output : 
+![Scraper Demo](./images/output.png)
 The script displays a colorful progress bar during scraping
 
 ### 🤝 Contributing
@@ -76,3 +80,5 @@ This project is for educational purposes only. Please respect Jumia's terms of s
 This project is MIT licensed.
 
 ⭐ Star this repo if you found it useful!
+
+### Powered by 🚀 ACHRAF EL BOUMASHOULI 🚀
