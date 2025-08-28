@@ -62,7 +62,9 @@ Prix: Product price in MAD
 Lien: Direct link to the product page
 
 ###  🎨 Terminal Preview
-https://via.placeholder.com/600x200?text=Colorful+Scraping+Progress+Bar
+![Scraper Demo](./images/demo-screenshot.png)
+![Scraper Demo](./images/demo-screenshot.png)
+![Scraper Demo](./images/demo-screenshot.png)
 The script displays a colorful progress bar during scraping
 
 ### 🤝 Contributing
