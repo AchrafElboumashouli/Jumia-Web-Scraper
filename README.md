@@ -67,7 +67,7 @@ Lien: Direct link to the product page
 ✨ scarping successful :
 ![Scraper Demo](./images/fin.png)
 🛍️ File output : 
-![Scraper Demo](./images/output.png)
+![Scraper Demo](./images/outputs.png)
 The script displays a colorful progress bar during scraping
 
 ### 🤝 Contributing
