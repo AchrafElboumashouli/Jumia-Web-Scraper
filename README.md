@@ -63,9 +63,13 @@ Lien: Direct link to the product page
 
 ###  🎨 Terminal Preview
 🚀 scarping : 
-![Scraper Demo](./images/scarping.png)
+![Scraper Demo](./images/scarping.png)                        
+
+
 ✨ scarping successful :
-![Scraper Demo](./images/fin.png)
+![Scraper Demo](./images/fin.png)       
+
+ 
 🛍️ File output : 
 ![Scraper Demo](./images/outputs.png)
 The script displays a colorful progress bar during scraping
