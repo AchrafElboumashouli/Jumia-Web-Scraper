@@ -62,9 +62,8 @@ Prix: Product price in MAD
 Lien: Direct link to the product page
 
 ###  🎨 Terminal Preview
-![Scraper Demo](./images/demo-screenshot.png)
-![Scraper Demo](./images/demo-screenshot.png)
-![Scraper Demo](./images/demo-screenshot.png)
+![Scraper Demo](./images/scarping.png)
+![Scraper Demo](./images/fin.png)
 The script displays a colorful progress bar during scraping
 
 ### 🤝 Contributing
